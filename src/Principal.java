@@ -8,8 +8,8 @@ import java.awt.EventQueue;
 public class Principal {
 
 	/**
-	 * Metodo main
-	 * @param args : Cadenas de par�metros del main
+	 * Método main
+	 * @param args : Cadenas de parámetros del main
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -23,4 +23,5 @@ public class Principal {
 			}
 		});
 	}
+
 }
