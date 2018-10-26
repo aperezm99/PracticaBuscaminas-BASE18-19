@@ -2,14 +2,14 @@ import java.awt.EventQueue;
 
 /**
  * Clase principal
- * @author jesusredondogarcia
+ * @author axiergonzalezdiaz
  *
  */
 public class Principal {
 
 	/**
-	 * Método main
-	 * @param args : Cadenas de parámetros del main
+	 * Metodo main
+	 * @param args : Cadenas de par�metros del main
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -23,5 +23,4 @@ public class Principal {
 			}
 		});
 	}
-
 }
